@@ -1,0 +1,1 @@
+Proyecto para elaborar una aplicación end to end de un RAG local. Se irá actualizando el contenido :).
