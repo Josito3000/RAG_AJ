@@ -1,0 +1,13 @@
+rag-assistant/
+├── app/
+│   ├── __init__.py
+│   ├── main.py          # API principal
+│   ├── rag_engine.py    # Motor RAG
+│   └── embeddings.py    # Configuración de embeddings
+├── data/                # Documentos para la base de conocimiento
+├── tests/
+│   ├── __init__.py
+│   ├── test_unit.py
+│   └── test_integration.py
+├── requirements.txt
+└── README.md
